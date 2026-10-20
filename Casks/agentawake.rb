@@ -1,6 +1,6 @@
 cask "agentawake" do
-  version "1.0.1"
-  sha256 "01962af94a1b9f1fba812f02c408afab7321e14d727f0865e52ea8c8212c785a"
+  version "1.0.2"
+  sha256 "47863794c9a5c5a90def43d94cfe12c60c8f803519faa7ddb0dd18c8d9003756"
 
   url "https://github.com/SyncEdge/agentawake-releases/releases/download/v#{version}/AgentAwake-#{version}.dmg"
   name "AgentAwake"
